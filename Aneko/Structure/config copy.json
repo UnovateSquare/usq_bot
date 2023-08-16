@@ -1,0 +1,23 @@
+{
+    "token": "MTEyNzY1NzAyMTg4MjI0MTExNA.GN0eKC.2_Ut8wq70kWpJJTAZ7Jdith1_OpdK8zl1P6m94",
+    "clientID": "1127657021882241114",
+    "prefix": ">",
+    "owners": ["810475442880118784", "963674250055655474"],
+    "color": {
+        "bot": "#2c2c34"
+    },
+    "emoji": {
+      "first": "<:arriereplus:1100544939642859550>",
+      "next": "<:avant:1100543488153624616>",
+      "back": "<:arriere:1100543446034415659>",
+      "last": "<:avantplus:1100544847024230421>",
+      "eclair": "<a:bzz:1125777125727817759>",
+      "fire": "<:fire:1125776438050693230>"
+    },
+    "mongodbUrl": "mongodb+srv://yukso:Mot2passe@cluster0.ypqdicu.mongodb.net/?retryWrites=true&w=majority",
+    "logsChannel": "1127835360857178183",
+    "mainServer": "1127658053605543957",
+    "welcomeCh": "1128001067343421501",
+    "ticketCategory": "1128227582354133022",
+    "ticketSupportRoleId": "1128227977293996042"
+}
